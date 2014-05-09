@@ -1,0 +1,95 @@
+/* line 1, ../../sass/fontello/fontello-ie7.scss */
+[class^="icon-"], [class*=" icon-"] {
+  font-family: 'fontello';
+  font-style: normal;
+  font-weight: normal;
+  /* fix buttons height */
+  line-height: 1em;
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+}
+
+/* line 13, ../../sass/fontello/fontello-ie7.scss */
+.icon-ok-circled2-1 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe806;&nbsp;');
+}
+
+/* line 14, ../../sass/fontello/fontello-ie7.scss */
+.icon-ok-circled2 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe805;&nbsp;');
+}
+
+/* line 15, ../../sass/fontello/fontello-ie7.scss */
+.icon-check-empty {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe809;&nbsp;');
+}
+
+/* line 16, ../../sass/fontello/fontello-ie7.scss */
+.icon-search {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe810;&nbsp;');
+}
+
+/* line 17, ../../sass/fontello/fontello-ie7.scss */
+.icon-twitter {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80d;&nbsp;');
+}
+
+/* line 18, ../../sass/fontello/fontello-ie7.scss */
+.icon-facebook {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80b;&nbsp;');
+}
+
+/* line 19, ../../sass/fontello/fontello-ie7.scss */
+.icon-gplus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80c;&nbsp;');
+}
+
+/* line 20, ../../sass/fontello/fontello-ie7.scss */
+.icon-gplus-circled-1 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe804;&nbsp;');
+}
+
+/* line 21, ../../sass/fontello/fontello-ie7.scss */
+.icon-check {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe807;&nbsp;');
+}
+
+/* line 22, ../../sass/fontello/fontello-ie7.scss */
+.icon-vkontakte {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80a;&nbsp;');
+}
+
+/* line 23, ../../sass/fontello/fontello-ie7.scss */
+.icon-check-1 {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe808;&nbsp;');
+}
+
+/* line 24, ../../sass/fontello/fontello-ie7.scss */
+.icon-left-dir {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80e;&nbsp;');
+}
+
+/* line 25, ../../sass/fontello/fontello-ie7.scss */
+.icon-right-dir {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80f;&nbsp;');
+}
+
+/* line 26, ../../sass/fontello/fontello-ie7.scss */
+.icon-twitter-circled {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe800;&nbsp;');
+}
+
+/* line 27, ../../sass/fontello/fontello-ie7.scss */
+.icon-facebook-circled {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe801;&nbsp;');
+}
+
+/* line 28, ../../sass/fontello/fontello-ie7.scss */
+.icon-gplus-circled {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe803;&nbsp;');
+}
+
+/* line 29, ../../sass/fontello/fontello-ie7.scss */
+.icon-pinterest-circled {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe802;&nbsp;');
+}
