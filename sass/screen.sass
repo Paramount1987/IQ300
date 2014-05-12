@@ -57,11 +57,13 @@ header
     @include border-right-radius(25px)
     @include border-left-radius(25px)
     margin-top: 20px
-    background: #669bca
+    background: #3b5a76
     padding-right: 40px
     padding-left: 40px
     font-size: 15px
     font-weight: bold
+  .btn:hover
+    background: #5784ac
 
 .logo-header
   img
@@ -96,6 +98,7 @@ header
   .form-control
     @include box-shadow(none)
     @include placeholder($color: $color-placeholder)
+    border-radius: 7px
     font-size: 20px
     height: 48px
     border: 2px solid #ededed
@@ -110,6 +113,9 @@ header
     background: #3b5a76
     padding: 13px 0px 
     width: 100%
+    border-bottom: 3px solid #3b5a76
+  .btn:hover
+    background: #5784ac  
   input[type="checkbox"]
     display: none 
   input[type="checkbox"] + .my-checkbox
@@ -289,8 +295,12 @@ header
     @include border-top-radius(10px)
     @include border-bottom-radius(10px)
     background: #b9d2e9
+    border-bottom: 3px solid #b9d2e9
     padding: 20px 90px
     font-size: 27px
+  .btn:hover
+    background: #5784ac
+    border-bottom: 3px solid #364d61  
   h1
     color: #fff
     margin-bottom: 35px
@@ -304,6 +314,8 @@ header
     color: #fff
   a
     font-size: 18px  
+  a:hover
+    color: #65a6df  
   ul
     list-style: none
     padding-left: 0px
@@ -319,6 +331,13 @@ header
     a
       color: #222
       margin-right: -15px
+  .vkontakte
+    background: url("../img/vkontakte.png") no-repeat
+    width: 41px
+    height: 41px
+    display: inline-block  
+    margin-bottom: -6px
+    margin-left: 5px
 /////////////////////////end
 
 /////////////////////////////////css statya
@@ -368,8 +387,9 @@ header
   color: #fff
   margin-top: 12px
   padding-left: 30px
-  padding-top: 12px
+  padding-top: 17copx
   height: 90px
+  line-height: 1.13
 
 @media (max-width: $screen-md-max)
   .date-article
